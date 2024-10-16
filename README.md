@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saumya Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" 0- alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frafaysyed.medium.com%2Fhaving-a-productive-home-workspace-b3d1a25ab6a1&psig=AOvVaw3fRAOLedsyk0uhTjbUI1w1&ust=1729181752990000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCxk5Wmk4kDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya-pandey01&label=Profile%20views&color=0e75b6&style=flat" alt="saumya-pandey01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumya-pandey01" alt="saumya-pandey01" /></a> </p>
